@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\bin\Debug\VatanMTA.exe.config
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\bin\Debug\VatanMTA.exe
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\bin\Debug\VatanMTA.pdb
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\obj\Debug\VatanMTA.launcher.resources
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\obj\Debug\VatanMTA.Properties.Resources.resources
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\obj\Debug\VatanMTA.csproj.GenerateResource.cache
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\obj\Debug\VatanMTA.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\obj\Debug\VatanMTA.exe
+C:\Users\user\Desktop\vrp-launcher\VatanMTA\VatanMTA\obj\Debug\VatanMTA.pdb
