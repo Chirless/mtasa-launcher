@@ -1,7 +1,7 @@
 # mtasa-launcher
 ### Multi Theft Auto - Server Launcher
 
-~~Proje desteği sağlanmamakta, kurulum için yazmayınız.~~
+# **Proje desteği sağlanmamakta, kurulum için yazmayınız.**
 
 :tr:
 > C# dili üzerinden .NET Framework teknolojisiyle birlikte Multi Theft Auto adlı oyundan belirtilen IP'ye hızlıca giriş yapılmasını sağlar. Paylaşılan proje aktif olarak 'discord.gg/vatanmta' üzerinde kullanıldığı için yüklediğinizde Vatan Roleplay ile alakalı şeylerin olması normal.
